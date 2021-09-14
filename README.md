@@ -1,7 +1,7 @@
 # Origami-Bar-Envelope-Designer
 Allows you to custom create envelopes for a perfect fit in various applications
 
-Package version 1.0..0.1  
+Package version 1.0.0.1  
 Program version 4.0.5.16
 
 In my digital world, I find that I often end up gathering a lot of items that I need to organize. For example, thumb drives, SD cards, laptop HDs, electronic parts such as resistors, LEDs, etc.
