@@ -2,7 +2,11 @@
 Allows you to custom create envelopes for a perfect fit in various applications
 
 Package version 1.0.0.1  
-Program version 4.0.5.16
+Program version 4.0.5.16  
+
+NOTE: The only file that you need is the ZIP package. It contains a copy of all other programs.
+
+The program is written in QB64. If you wish to make changes to the program, download the QB64 compiler from www.QB64.org.
 
 In my digital world, I find that I often end up gathering a lot of items that I need to organize. For example, thumb drives, SD cards, laptop HDs, electronic parts such as resistors, LEDs, etc.
 
